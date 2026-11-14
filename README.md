@@ -5,3 +5,4 @@
 <p align="center"
   
 [ > Vriska: Open Atabook.](https://hater.atabook.org/) 
+[ > Vriska: ...Or Repris?](https://repris.org/8ball)
